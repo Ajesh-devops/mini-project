@@ -17,3 +17,5 @@ spec:
         image: ajeshdevops/devops-monitoring-app:latest
         ports:
         - containerPort: 3000
+
+        #testing the deployment
